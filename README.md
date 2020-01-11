@@ -1,2 +1,2 @@
 # hello-world
-testowe
+Testowe repozytorium - just for fun.
